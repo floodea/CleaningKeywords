@@ -1,0 +1,6 @@
+Filter, search for term
+select top word, ctrl+c
+ctrl+shift+down
+f5->special->y (or click visible cells only)
+ctrl+v 
+clear
